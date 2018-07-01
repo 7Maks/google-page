@@ -1,0 +1,119 @@
+.body {
+	font: 13px arial,sans-serif;
+}
+.link {
+	font: 13px arial,sans-serif;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline; 
+}
+.link a:visited {
+	color: #222;
+}
+.link a:hover {
+	color: #808080;
+}
+ul.link li {
+	display: inline;
+	margin: 10px;
+}
+.apps {
+    background: none;
+    position: relative;
+ 	border: 0;
+    padding: 0;
+}
+.login {
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background-color: #3c7ae4;
+	color: #fff;
+	line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+}
+.logo {
+    height:233px; 
+    margin-top:89px;
+}
+.logo_a {
+    padding-top:109px;
+}
+.services {
+	font: 13px arial, sans-serif;
+    margin-top: 30px;
+}
+.search {
+	border: 1px outset;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);  
+    width: 500px; 
+    z-index: 6; 
+    left: 0px; 
+    outline: none;
+	font: 16px arial,sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+}
+.search_g {
+	background-color: #f2f2f2;
+    border-radius: 2px;
+    border: none;
+    color: #757575;
+    cursor: default;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+.luck {
+	background-color: #f2f2f2;
+    border-radius: 2px;
+    border: none;
+    color: #757575;
+    cursor: default;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    margin-left: 5px;
+}
+.ce {
+    margin-top: 30px;
+}
+.bottom {
+    font: 13px arial,sans-serif;
+}
+.bottom a {
+    color: #666; 
+   }
+.bottom a:visited {
+    color: #666; 
+   }
+.bottom a:active {
+    color: #666; 
+   }
+.left {
+    position: fixed; 
+    left: 0; bottom: 0;
+    margin-bottom: 10px;
+    padding-left: 20px
+
+}
+.left a {
+    margin-right: 20px;
+}
+
+.right {
+	position: fixed;
+    right: 0; bottom: 0;
+    margin-bottom: 10px;
+}
+.right a {
+    margin-right: 20px;
+}
